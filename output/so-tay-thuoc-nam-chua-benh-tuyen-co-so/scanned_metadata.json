@@ -1,0 +1,167 @@
+{
+  "pdf_file": "so-tay-thuoc-nam-chua-benh-tuyen-co-so.pdf",
+  "is_scanned": true,
+  "total_pages": 179,
+  "total_images": 1587,
+  "dpi": 300,
+  "pages": [
+    {
+      "page": 1,
+      "regions": [
+        {
+          "bbox": [
+            51,
+            0,
+            850,
+            1201
+          ],
+          "confidence": 0.65,
+          "method": "texture",
+          "filename": "page_001_img_01.png"
+        },
+        {
+          "bbox": [
+            111,
+            0,
+            198,
+            196
+          ],
+          "confidence": 0.7999999999999999,
+          "method": "edge",
+          "filename": "page_001_img_02.png"
+        },
+        {
+          "bbox": [
+            379,
+            0,
+            182,
+            195
+          ],
+          "confidence": 0.7999999999999999,
+          "method": "edge",
+          "filename": "page_001_img_03.png"
+        },
+        {
+          "bbox": [
+            2201,
+            0,
+            300,
+            151
+          ],
+          "confidence": 0.5499999999999999,
+          "method": "texture",
+          "filename": "page_001_img_04.png"
+        },
+        {
+          "bbox": [
+            609,
+            19,
+            218,
+            270
+          ],
+          "confidence": 0.85,
+          "method": "edge",
+          "filename": "page_001_img_05.png"
+        },
+        {
+          "bbox": [
+            1201,
+            201,
+            1050,
+            700
+          ],
+          "confidence": 0.65,
+          "method": "texture",
+          "filename": "page_001_img_06.png"
+        },
+        {
+          "bbox": [
+            374,
+            251,
+            189,
+            269
+          ],
+          "confidence": 0.9,
+          "method": "edge",
+          "filename": "page_001_img_07.png"
+        },
+        {
+          "bbox": [
+            78,
+            317,
+            212,
+            270
+          ],
+          "confidence": 0.85,
+          "method": "edge",
+          "filename": "page_001_img_08.png"
+        },
+        {
+          "bbox": [
+            1676,
+            443,
+            293,
+            173
+          ],
+          "confidence": 0.9,
+          "method": "edge",
+          "filename": "page_001_img_09.png"
+        },
+        {
+          "bbox": [
+            1235,
+            453,
+            155,
+            169
+          ],
+          "confidence": 0.7999999999999999,
+          "method": "edge",
+          "filename": "page_001_img_10.png"
+        },
+        {
+          "bbox": [
+            632,
+            455,
+            198,
+            199
+          ],
+          "confidence": 0.7999999999999999,
+          "method": "edge",
+          "filename": "page_001_img_11.png"
+        },
+        {
+          "bbox": [
+            105,
+            591,
+            150,
+            158
+          ],
+          "confidence": 0.85,
+          "method": "edge",
+          "filename": "page_001_img_12.png"
+        },
+        {
+          "bbox": [
+            2351,
+            601,
+            150,
+            450
+          ],
+          "confidence": 0.6,
+          "method": "texture",
+          "filename": "page_001_img_13.png"
+        },
+        {
+          "bbox": [
+            1001,
+            651,
+            1150,
+            1800
+          ],
+          "confidence": 0.9500000000000001,
+          "method": "merged",
+          "filename": "page_001_img_14.png"
+        },
+        {
+          "bbox": [
+            

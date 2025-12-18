@@ -1,0 +1,33 @@
+{
+  "total_images": 2,
+  "images": [
+    {
+      "filename": "page_001_img_01.png",
+      "page": 1,
+      "image_index": 1,
+      "bbox": {
+        "x0": 0.0,
+        "y0": 0.0,
+        "x1": 354.239990234375,
+        "y1": 581.0399780273438
+      },
+      "width": 738,
+      "height": 1210,
+      "format": "jpeg"
+    },
+    {
+      "filename": "page_148_img_01.png",
+      "page": 148,
+      "image_index": 1,
+      "bbox": {
+        "x0": 0.0,
+        "y0": 0.0,
+        "x1": 354.239990234375,
+        "y1": 581.0399780273438
+      },
+      "width": 738,
+      "height": 1210,
+      "format": "jpeg"
+    }
+  ]
+}

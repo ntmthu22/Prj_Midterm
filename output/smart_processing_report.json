@@ -1,0 +1,50 @@
+{
+  "total_pdfs": 5,
+  "processed": 3,
+  "failed": 2,
+  "total_images": 142,
+  "by_type": {
+    "digital": 3,
+    "scanned": 0,
+    "mixed": 0
+  },
+  "results": [
+    {
+      "filename": "500-bai-thuoc-hay-chua-benh-cao-huyet-ap.pdf",
+      "status": "FAILED",
+      "reason": "Object of type int32 is not JSON serializable"
+    },
+    {
+      "filename": "ban-thao-van-dap.pdf",
+      "status": "SUCCESS",
+      "method": "digital",
+      "images_count": 1,
+      "processing_time": 1.986085,
+      "output_dir": "output/ban-thao-van-dap"
+    },
+    {
+      "filename": "so-tay-thuoc-nam-chua-benh-tuyen-co-so.pdf",
+      "status": "FAILED",
+      "reason": "Object of type int32 is not JSON serializable"
+    },
+    {
+      "filename": "benh-ngoai-khoa-thuong-gap-va-cach-chua-tri-bang-y-hoc-co-truyen.pdf",
+      "status": "SUCCESS",
+      "method": "digital",
+      "images_count": 2,
+      "processing_time": 1.793944,
+      "output_dir": "output/benh-ngoai-khoa-thuong-gap-va-cach-chua-tri-bang-y-hoc-co-truyen"
+    },
+    {
+      "filename": "dong-y-nhap-mon.pdf",
+      "status": "SUCCESS",
+      "method": "digital",
+      "images_count": 139,
+      "processing_time": 47.140096,
+      "output_dir": "output/dong-y-nhap-mon"
+    }
+  ],
+  "start_time": "2025-12-18T14:09:40.567846",
+  "end_time": "2025-12-18T14:33:06.728515",
+  "total_time": 1406.160669
+}

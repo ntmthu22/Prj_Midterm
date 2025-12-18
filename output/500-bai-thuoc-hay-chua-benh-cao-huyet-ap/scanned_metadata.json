@@ -1,0 +1,68 @@
+{
+  "pdf_file": "500-bai-thuoc-hay-chua-benh-cao-huyet-ap.pdf",
+  "is_scanned": true,
+  "total_pages": 250,
+  "total_images": 2105,
+  "dpi": 300,
+  "pages": [
+    {
+      "page": 1,
+      "regions": [
+        {
+          "bbox": [
+            0,
+            0,
+            1451,
+            951
+          ],
+          "confidence": 0.65,
+          "method": "texture",
+          "filename": "page_001_img_01.png"
+        },
+        {
+          "bbox": [
+            801,
+            0,
+            800,
+            451
+          ],
+          "confidence": 0.65,
+          "method": "texture",
+          "filename": "page_001_img_02.png"
+        },
+        {
+          "bbox": [
+            451,
+            160,
+            154,
+            154
+          ],
+          "confidence": 0.7999999999999999,
+          "method": "edge",
+          "filename": "page_001_img_03.png"
+        },
+        {
+          "bbox": [
+            1151,
+            251,
+            1250,
+            850
+          ],
+          "confidence": 0.65,
+          "method": "texture",
+          "filename": "page_001_img_04.png"
+        },
+        {
+          "bbox": [
+            1187,
+            259,
+            238,
+            219
+          ],
+          "confidence": 0.9,
+          "method": "edge",
+          "filename": "page_001_img_05.png"
+        },
+        {
+          "bbox": [
+            

@@ -1,0 +1,19 @@
+{
+  "total_images": 1,
+  "images": [
+    {
+      "filename": "page_083_img_01.png",
+      "page": 83,
+      "image_index": 1,
+      "bbox": {
+        "x0": 90.0,
+        "y0": 72.0,
+        "x1": 519.719970703125,
+        "y1": 348.0
+      },
+      "width": 1193,
+      "height": 766,
+      "format": "jpeg"
+    }
+  ]
+}
