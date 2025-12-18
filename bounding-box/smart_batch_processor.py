@@ -14,7 +14,7 @@ try:
     from image_extractor import PDFImageExtractor
     from scanned_pdf_processor import ScannedPDFImageDetector
 except ImportError:
-    print("⚠️  Cần có file image_extractor.py và scanned_pdf_processor.py")
+    print("Cần có file image_extractor.py và scanned_pdf_processor.py")
     print("   Lưu các artifact trước đó vào cùng thư mục!")
 
 
@@ -221,11 +221,11 @@ def batch_process_smart(input_dir='input', output_base_dir='output', dpi=300):
     
     # Danh sách file
     PDF_FILES = {
-        '500_bai_thuoc.pdf': {'owner': 'Thư', 'pages': 250},
-        'ban_thao_van_dap.pdf': {'owner': 'Chị Ngọc', 'pages': 83},
-        'so_tay_thuoc_nam.pdf': {'owner': 'Chị Ngọc', 'pages': 179},
-        'benh_ngoai_khoa.pdf': {'owner': 'Anh Hiếu', 'pages': 148},
-        'dong_y.pdf': {'owner': 'Anh Hiếu', 'pages': 139}
+        '500-bai-thuoc-hay-chua-benh-cao-huyet-ap.pdf': {'owner': 'Thư', 'pages': 250},
+        'ban-thao-van-dap.pdf': {'owner': 'Ngọc', 'pages': 83},
+        'so-tay-thuoc-nam-chua-benh-tuyen-co-so.pdf': {'owner': 'Ngọc', 'pages': 179},
+        'benh-ngoai-khoa-thuong-gap-va-cach-chua-tri-bang-y-hoc-co-truyen.pdf': {'owner': 'Hiếu', 'pages': 148},
+        'dong-y-nhap-mon.pdf': {'owner': 'Hiếu', 'pages': 139}
     }
     
     # Khởi tạo processor
