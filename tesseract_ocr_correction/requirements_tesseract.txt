@@ -1,0 +1,7 @@
+pytesseract
+pdf2image
+tqdm
+# Các package đã có trong requirements.txt root:
+# opencv-python
+# python-docx
+# numpy
